@@ -27,7 +27,7 @@ spec:
 
     vault:
       role: vault-role
-      address: http://vault.simplyfi.link:8200
+      address: http://a9b8d34e3f217434abbb147cdb3684d9-1403908210.us-east-1.elb.amazonaws.com:8200/
       authpath: bevelsupplychain-net-auth
       secretcryptoprefix: secretsv2/data/crypto/ordererOrganizations/supplychain-net/ca
       secretcredentialsprefix: secretsv2/data/credentials/supplychain-net/ca/supplychain
